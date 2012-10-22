@@ -10,7 +10,7 @@ while true
   end
     
   if chat == chat.upcase
-    puts "NO, NOT SINCE #{rand(21) + 1930}"
+    puts "NO, NOT SINCE #{rand(21) + 1930}."
   else
    puts "HUH?! SPEAK UP SONNY!"
   end
